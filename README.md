@@ -70,3 +70,7 @@
 </div>
 
 ###
+<p align="center">
+<code>while(alive) { aprender(); evoluir(); }</code><br>
+<code>Erro 404: Zona de conforto não encontrada.</code>
+</p>
