@@ -84,3 +84,27 @@
 </div>
 
 ###
+## 💻 Quem Sou Eu?
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr>
+
+<td width="60%" style="border: none; padding-right: 20px;">
+
+Me chamo **Caique**, tenho **22 anos** e sou  
+**Técnico em Informática pelo Instituto Federal Baiano**.  
+Desde cedo desenvolvi interesse por tecnologia, criando base sólida em hardware, software, redes e lógica de programação.
+
+Atualmente sou estudante de  
+**Análise e Desenvolvimento de Sistemas** na **UNIP**, buscando evolução constante na área.
+
+</td>
+
+<td width="40%" align="center" style="border: none;">
+
+<img src="https://i.imgur.com/SFZfcyv.jpeg" height="200px"/>
+
+</td>
+
+</tr>
+</table>
