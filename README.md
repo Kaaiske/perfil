@@ -72,7 +72,6 @@
 <img src="https://raw.githubusercontent.com/Kaaiske/Kaaiske/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <img align="right" height="200" src="https://i.imgur.com/SFZfcyv.jpeg" style="margin-left: 20px;" />
 
 <p style="width: 350px; font-size: 18px; line-height: 1.8;">
@@ -85,9 +84,17 @@ Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</stro
 
 <br clear="both">
 
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&stroke=-&textBg=false&color=random"  />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaaiske&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kaaiske&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaaiske&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kaaiske&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
